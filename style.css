@@ -1,5 +1,9 @@
 body{
     background-color: #c468e9;
+
+}
+header{
+    display: flex;
 }
     /* } sssssssss */
     :root{
