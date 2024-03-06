@@ -29,7 +29,7 @@ header{
     .apresentacao{
         display:flex;
         background-color: var(--branco);
-        border: 2px solid var(--cor-de-texto);
+        border: 5px solid var(--cor-de-texto);
         border-width: 2px 0 0;
     }
     
