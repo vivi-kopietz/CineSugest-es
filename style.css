@@ -29,5 +29,6 @@ header{
     .apresentacao{
         display:flex;
         background-color: var(--branco);
+        border: 2px solid var(--cor-de-texto);
     }
     
