@@ -15,7 +15,7 @@ header{
     :root{
         --cor-de-fundo:#000000;
         --cor-de-texto:#ffffff;
-        --roxo: #d42ceb;
+        --preto: #000000;
     }
     
     img{
@@ -28,6 +28,6 @@ header{
     }
     .apresentacao{
         display:flex;
-        background-color: var(--roxo);
+        background-color: var(--preto);
     }
     
