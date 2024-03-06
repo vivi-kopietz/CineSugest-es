@@ -1,5 +1,5 @@
 body{
-    background-color: #682d80;
+    background-color: #000000;
 
 }
 header{
@@ -13,7 +13,7 @@ header{
 
     /* } ssssssssés */
     :root{
-        --cor-de-fundo:#ffffff;
+        --cor-de-fundo:#076ff7;
         --cor-de-texto:#ffffff;
         --branco: #c045e6;
     }
