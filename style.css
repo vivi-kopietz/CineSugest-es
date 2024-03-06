@@ -10,7 +10,7 @@ header{
     flex-wrap: wrap;
 }
 
-}
+
     /* } ssssssssés */
     :root{
         --cor-de-fundo:#000000;
@@ -23,6 +23,6 @@ header{
     }
 
     .imagem{
- width: 30%;
+      width: 30%;
 
     }
