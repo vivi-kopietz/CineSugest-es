@@ -14,7 +14,7 @@ header{
     /* } ssssssssés */
     :root{
         --cor-de-fundo:#076ff7;
-        --cor-de-texto:#b61818;
+        --cor-de-texto:#ffffff;
         --branco: #c045e6;
     }
     
@@ -29,7 +29,7 @@ header{
     .apresentacao{
         display:flex;
         background-color: var(--branco);
-        border: 7px solid var(--cor-de-texto);
+
         margin: 20px 0 0 0;
     
       
