@@ -1,5 +1,6 @@
 body{
     background-color: #ffffff;
+    color: var(--cor-de-texto);
 
 }
 header{
@@ -15,7 +16,6 @@ header{
     :root{
         --cor-de-fundo:#ffffff;
         --cor-de-texto: #ff0000;
-        --cor-de-texto:#ff0000;
         --branco: #c045e6;
     }
     
