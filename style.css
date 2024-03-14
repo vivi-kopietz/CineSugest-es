@@ -28,10 +28,12 @@ header{
 
     }
     .apresentacao{
-        display:flex;
+        display: flex;
         background-color: var(--branco);
-
-        margin: 20px 0 0 0;
+        border: 2px solid white;
+        margin: 20px;
+        padding: 20px;
+        border-radius: 20px;
     
       
     }
