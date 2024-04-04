@@ -55,4 +55,12 @@ header{
         grid-template-columns: 33% 33% 33%;
       }
       
+      .foto-equipe{
+        width: 40%;
+      }
+
+      .divisao-equipe{
+        border: 30xp solid purple
+        margin: 10px
+      }
     
