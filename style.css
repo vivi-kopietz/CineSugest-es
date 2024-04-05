@@ -70,7 +70,7 @@ header{
       .produto {
         display: flex;
         align-items: center;
-        margin-right: 100px; 
+        margin-left: 100px; 
         margin-bottom: 50px;/* Alinha itens verticalmente */
         
     }
