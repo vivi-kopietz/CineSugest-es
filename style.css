@@ -65,3 +65,12 @@ header{
         margin: 10px;
       }
     
+
+      .produto {
+        display: flex;
+        align-items: center; /* Alinha itens verticalmente */
+    }
+    
+    .descricao-produto {
+        margin-left: 20px; /* Ou qualquer outro valor desejado */
+    }
