@@ -69,6 +69,7 @@ header{
       .produto {
         display: flex;
         align-items: center; /* Alinha itens verticalmente */
+        margin-left: 100px;
     }
     
     .descricao-produto {
