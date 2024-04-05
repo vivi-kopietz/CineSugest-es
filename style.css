@@ -68,10 +68,12 @@ header{
 
       .produto {
         display: flex;
-        align-items: center; /* Alinha itens verticalmente */
+        align-items: center;
+        margin-right: 100px; 
+        margin-bottom: 20px;/* Alinha itens verticalmente */
         
     }
     
     .descricao-produto {
-        margin-right: 100px; /* Ou qualquer outro valor desejado */
+        margin-left: 100px; /* Ou qualquer outro valor desejado */
     }
