@@ -65,6 +65,9 @@ header{
         margin: 10px;
       }
     
+      .imagem-filme {
+        width: 100%; /* Define a largura como 100% */
+    }
 
       .produto {
         display: flex;
