@@ -81,3 +81,7 @@ header{
     .descricao-produto {
         margin-left: 100px; /* Ou qualquer outro valor desejado */
     }
+
+    footer{
+      background-color: #ac63e7;
+    }
