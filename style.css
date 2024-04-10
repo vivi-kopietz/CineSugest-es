@@ -89,3 +89,8 @@ header{
         .foto-filme{
           width: 150px;
         }
+        
+         header a{
+          color: #ffffff;
+          text-decoration: none;
+        }
